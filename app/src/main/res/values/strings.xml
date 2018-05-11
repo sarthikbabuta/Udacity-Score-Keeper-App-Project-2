@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">udacity2project</string>
+    <string name="teama">Team A</string>
+    <string name="threepointa">3 Points</string>
+    <string name="twopointsa">2 Points</string>
+    <string name="onepointsa">1 Points</string>
+    <string name="scorea">Score</string>
+    <string name="reset">Reset</string>
+    <string name="teamb">Team B</string>
+    <string name="threepointb">3 Points</string>
+    <string name="twopointsb">2 Points</string>
+    <string name="onepointsb">1 Points</string>
+    <string name="scoreb">Score</string>
+    <string name="resetb">Reset</string>
+</resources>
